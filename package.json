@@ -1,7 +1,7 @@
 {
   "name": "fxhash-template",
   "version": "1.0.0",
-  "description": "fxhash-template",
+  "description": "fxhash template by Matt Circles",
   "main": "index.ts",
   "scripts": {
     "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write",
@@ -10,7 +10,7 @@
     "start": "webpack serve --config ./config/webpack.config.dev.js"
   },
   "author": "Matt Circles",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.6.0",
